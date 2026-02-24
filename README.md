@@ -92,12 +92,13 @@ ________________________________________
 ▶️ How to Run This Project
 🔹 Option 1 – Run Locally (Recommended)
 1.	Install Power BI Desktop
-o	Download from: https://powerbi.microsoft.com/
+  	Download from: https://powerbi.microsoft.com/
 2.	Clone this repository:
-git clone  https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance/tree/main
+    git clone  https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance/tree/main
 3.	Open Final_Exam_Project.pbix
-4.	Refresh data (if needed)
-5.	Interact with filters and navigation buttons
+4.	Download the .pbix file
+5.	Open the .pbix file in your laptop using Power BI Desktop tool
+6.	Interact with filters and navigation buttons
 ________________________________________
 📊 Visualization Design Principles
 This dashboard was built with strong visualization standards:
