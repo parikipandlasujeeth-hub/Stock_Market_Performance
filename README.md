@@ -46,16 +46,10 @@ https://powerbi.microsoft.com/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance.git
+https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance.git
 ```
 
-### 2. Navigate to the Project Directory
-
-```bash
-cd Stock_Market_Performance
-```
-
-### 3. Open the Power BI File
+### 2. Open the Power BI File
 
 - Download `Final_Exam_Project.pbix`
 - Open it using Power BI Desktop
