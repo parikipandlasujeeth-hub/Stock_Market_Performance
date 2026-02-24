@@ -94,7 +94,7 @@ ________________________________________
 1.	Install Power BI Desktop
 o	Download from: https://powerbi.microsoft.com/
 2.	Clone this repository:
-git clone
+git clone  https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance/tree/main
 3.	Open Final_Exam_Project.pbix
 4.	Refresh data (if needed)
 5.	Interact with filters and navigation buttons
