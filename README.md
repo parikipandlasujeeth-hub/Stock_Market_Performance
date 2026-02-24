@@ -46,7 +46,7 @@ https://powerbi.microsoft.com/
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance.git
+git clone https://github.com/parikipandlasujeeth-hub/Stock_Market_Performance.git
 ```
 
 ### 2. Open the Power BI File
