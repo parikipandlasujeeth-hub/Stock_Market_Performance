@@ -67,6 +67,9 @@ Provides a high-level performance overview.
 - Interactive slicers
 - Executive-ready clean layout
 
+<img width="1336" height="1040" alt="executive-summary" src="https://github.com/user-attachments/assets/d8f26f84-237c-4052-9427-20b25be3fbb5" />
+
+
 ### 2. Stock Performance Analysis
 
 Detailed stock-level breakdown.
@@ -75,6 +78,9 @@ Detailed stock-level breakdown.
 - Pie chart for volatility distribution
 - Tabular stock metrics
 - Dynamic filtering by symbol
+
+<img width="1332" height="1043" alt="stock-performance" src="https://github.com/user-attachments/assets/3fb5c005-c74b-4c91-9c93-be33066cb46e" />
+
 
 ### 3. Advanced Market Insights
 
@@ -85,6 +91,9 @@ Advanced financial analytics and pivot-style analysis.
 - Calculated performance ratios
 - Advanced DAX-driven measures
 - Symbol-based filtering
+
+<img width="1342" height="1053" alt="advanced-insights" src="https://github.com/user-attachments/assets/3ea08752-18a2-4f2a-b94b-5645fd49ebe3" />
+
 
 ## Design Decisions
 
