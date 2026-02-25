@@ -170,7 +170,7 @@ Stock-Market-Performance-Dashboard/
 │
 ├── Final_Exam_Project.pbix
 ├── Final_Exam_Project.pptx
-├── QR_Code_Screenshot.jpg
+├── Final_Exam_Project.jpg
 └── README.md
 ```
 
